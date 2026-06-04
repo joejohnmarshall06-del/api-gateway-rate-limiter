@@ -1,0 +1,19 @@
+{
+  "name": "api-gateway-rate-limiter",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "API gateway policy engine with token bucket rate limits, route matching, auth checks, and request decisions.",
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "infrastructure",
+    "developer-tools",
+    "system-design",
+    "nodejs"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
